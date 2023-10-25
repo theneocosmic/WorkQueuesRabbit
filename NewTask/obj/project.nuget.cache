@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DTEWdI95NeHvJmHiunvcSQxfP7hA1zTTc/DofPJZYuqUoDxTDXipKcHO6CfDicUcZmWOhhP99wHVHnXoBHhrtg==",
+  "success": true,
+  "projectFilePath": "C:\\platzi\\RabbitMQ\\WorkQueuesRabbit\\NewTask\\NewTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\rabbitmq.client\\6.6.0\\rabbitmq.client.6.6.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
