@@ -12,3 +12,5 @@ A worker process running in the background will pop the tasks and eventually exe
 When you run many workers the tasks will be shared between them.
 
 This concept is especially useful in web applications where it's impossible to handle a complex task during a short HTTP request window.
+
+This project have and running example from RabbitMQ web example Work Queues in .Net
